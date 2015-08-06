@@ -4,3 +4,5 @@ Application originally created to allow execute fixed set of commands on remote 
 Aceept on param - path to config file. Config example included.
 
 Generally idea in make absolutelly trusting way to execute limit range of remote commands with mention that deb-package with application uploaded to public repository.
+
+Need to update with commands list from file, to allow expand functionality without recompile app.
