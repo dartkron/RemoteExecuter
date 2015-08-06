@@ -1,0 +1,7 @@
+{
+"port": "4053",
+"https_keyfile": "/home/smishin/go/src/ALDH/key.pem",
+"https_certfile": "/home/smishin/go/src/ALDH/cert.pem",
+"app_pub_key": "/home/smishin/go/src/ALDH/mykey.pub",
+"log_dir": "/home/smishin/go/src/ALDH/log"
+}
